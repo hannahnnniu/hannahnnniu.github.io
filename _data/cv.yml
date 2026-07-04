@@ -20,8 +20,8 @@ cv:
   sections:
     Education:
       - institution: University of Edinburgh
-        location: Edinburgh, Scotland, UK
-        url: https://www.uzh.ch/
+        location: Edinburgh, UK
+        url: https://informatics.ed.ac.uk/
         area: Cognitive Science
         studyType: Master of Science
         start_date: 2025

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to CogSci 2026! 🎉
+One paper is accepted to CogSci 2026! 🇰🇷

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to ICML 2026 Mech Interp Workshop as a spotlight! 🎉
+One paper is accepted to ICML 2026 Mech Interp Workshop as a spotlight! 🇧🇷

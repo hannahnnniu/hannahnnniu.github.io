@@ -384,7 +384,7 @@
     {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->
       <div class="bibtex hidden">
-        {% assign clean_bibtex = entry.bibtex | hideCustomBibtex | regex_replace: '\s*tldr\s*=\s*\{[^}]*\},?\n?', '' %}
+        {% assign clean_bibtex = entry.bibtex | hideCustomBibtex | regex_replace: '[ \t]*tldr\s*=\s*\{[^}]*\},?\n?', '' %}
         {% highlight bibtex %}
         {{- clean_bibtex -}}
         {% endhighlight %}

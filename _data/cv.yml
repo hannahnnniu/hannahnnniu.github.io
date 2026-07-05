@@ -18,6 +18,7 @@ cv:
   #   countryCode: US
 
   sections:
+
     Education:
       - institution: University of Edinburgh
         location: Edinburgh, UK
@@ -42,7 +43,7 @@ cv:
         end_date: 2024.12
         # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - Built and optimised LLM-powered agents for AI search and enterprise knowledge Q\&A, integrating RAG pipelines with structured knowledge bases; designed tool-use workflows combining NER, Cypher query generation, and LLM-based reasoning for knowledge graph querying.
+          - Integrated RAG pipelines with structured knowledge bases; designed tool-use workflows combining NER, Cypher query generation, and LLM-based reasoning for knowledge graph querying.
           - Fine-tuned LLMs for structured knowledge extraction using LoRA via Llama-Factory, achieving high accuracy on entity-relation triple extraction and SQL generation tasks.
           - Built multimodal document parsing pipelines using Vision-Language Models, designing visual-prompting strategies that significantly outperformed traditional OCR pipelines.
 
@@ -67,9 +68,12 @@ cv:
         # level: Master
         # icon: fa-solid fa-hashtag
         keywords: "RAG, SFT (LoRA via Llama-Factory), LangChain, LlamaIndex, Dify; tool-use agent design, prompt engineering"
+      
+      - name: ML
+        keywords: "PyTorch, HuggingFace Transformers, Vision-Language Models, Representational Geometry"
 
       - name: Engineering
-        keywords: "Python, C++, Git, Docker, Google Cloud, Linux/Bash, Django, Gradio"
+        keywords: "Python, C++, Git, Docker, Google Cloud, Linux/Bash, Django, Gradio, Pyro, Neo4j, SQL, HuggingFace TRL"
 
     Languages:
       - name: Mandarin

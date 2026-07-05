@@ -21,7 +21,6 @@ cv:
     Education:
       - institution: University of Edinburgh
         location: Edinburgh, UK
-        url: https://informatics.ed.ac.uk/
         area: Cognitive Science
         studyType: Master of Science
         start_date: 2025
@@ -35,38 +34,42 @@ cv:
         start_date: 2021
         end_date: 2025
 
-    # Experience:
-    #   - company: Institute for Advanced Study, Princeton University
-    #     position: Professor of Theoretical Physics
-    #     location: Princeton University, NJ
-    #     start_date: 1933
-    #     end_date: 1955
-    #     summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-    #     highlights:
-    #       - Relativity
-    #       - Description 2.
+    Experience:
+      - company: Z.AI (Zhipu AI)
+        position: Algorithm Engineer Intern
+        location: Beijing, China
+        start_date: 2024.05
+        end_date: 2024.12
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        highlights:
+          - Built and optimised LLM-powered agents for AI search and enterprise knowledge Q\&A, integrating RAG pipelines with structured knowledge bases; designed tool-use workflows combining NER, Cypher query generation, and LLM-based reasoning for knowledge graph querying.
+          - Fine-tuned LLMs for structured knowledge extraction using LoRA via Llama-Factory, achieving high accuracy on entity-relation triple extraction and SQL generation tasks.
+          - Built multimodal document parsing pipelines using Vision-Language Models, designing visual-prompting strategies that significantly outperformed traditional OCR pipelines.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    #   - title: Max Planck Medal
+    #     authors:
+    #       - "German Physical Society"
+    #     date: 2029
+    #     awarder: German Physical Society
+    #     summary: Awarded for outstanding scientific achievement
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: LLM
+        # level: Master
+        # icon: fa-solid fa-hashtag
+        keywords: "RAG, SFT (LoRA via Llama-Factory), LangChain, LlamaIndex, Dify; tool-use agent design, prompt engineering"
+
+      - name: Engineering
+        keywords: "Python, C++, Git, Docker, Google Cloud, Linux/Bash, Django, Gradio"
 
     Languages:
       - name: Mandarin

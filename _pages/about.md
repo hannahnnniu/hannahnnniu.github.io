@@ -24,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Lanhao Niu, a Master's student in Cognitive Science at the University of Edinburgh. My research interests sit at the intersection of machine learning and cognitive science, centered on how large language models represent knowledge internally and how those representations relate to reasoning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+One strand of my work, with Prof. [Sashank Varma](https://www.cc.gatech.edu/people/sashank-varma), looks at the internal geometry of LLM representations: how concepts, numbers, and context-dependent meanings are structured, and whether this structure is shared across different model architectures. A second, related strand, with Prof. [Siddharth Narayanaswamy](https://homepages.inf.ed.ac.uk/snaraya3/), looks at LLMs as components of probabilistic inference systems, using them as proposal mechanisms within probabilistic programs. I'm particularly interested in whether the explicit, step-by-step structure of probabilistic inference traces can offer a useful lens for making LLM reasoning, and agent behavior more broadly, more interpretable.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm generally drawn to questions where representation and reasoning meet, not just what models compute, but how that computation is structured, and what that structure might reveal about cognition.
+
+I'm currently looking for PhD and research assistant opportunities in areas related to interpretability, representation learning, and cognitively-inspired approaches to reasoning in AI systems. Feel free to reach out if you think there might be a good fit.

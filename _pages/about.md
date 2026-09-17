@@ -30,4 +30,4 @@ One strand of my work, with Prof. [Sashank Varma](https://www.cc.gatech.edu/peop
 
 Across both strands, I'm interested in the relationship between representation and reasoning: how internal structure supports computation, and what that structure can tell us about how models behave.
 
-I'm currently looking for research assistant and PhD opportunities in areas related to mechanistic interpretability, representation learning, LLM reasoning, and cognitively inspired machine learning. Feel free to reach out if you think there might be a good fit.
+I'm currently looking for research assistant and PhD opportunities!
